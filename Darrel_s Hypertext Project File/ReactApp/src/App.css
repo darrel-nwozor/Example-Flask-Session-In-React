@@ -1,0 +1,41 @@
+.App.theme-light {
+  background-color: #f9f9f9;
+  color: #111;
+}
+
+.App.theme-dark {
+  background-color: #121212;
+  color: #eee;
+}
+
+/* Add theme variations for story themes if you want */
+.App.theme-timeline-repair {
+  background-color: #cce7ff;
+  color: #002244;
+}
+
+.App.theme-cosmic-war {
+  background-color: #330022;
+  color: #ffccdd;
+}
+
+.choice-btn {
+  margin: 10px 8px;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 6px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+
+.choice-btn:hover {
+  background-color: #0056b3;
+}
+
+.theme-buttons button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
