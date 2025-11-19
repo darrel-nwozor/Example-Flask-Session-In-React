@@ -1,0 +1,510 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="c0vfCN-lQ5CeXdC6i-ZS">
+    <mxGraphModel grid="1" page="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="60aIGesRuUDaNwPViyWk-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2126" y="27" width="548" height="643" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="25" width="728" height="1416" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="855" y="25" width="512" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="23" width="852" height="1501" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;START&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="67" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4cd9yuj2vxOyTZg44lFt-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377" y="227" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;THE ADVENTURES OF THE MULTIVERSE (DC)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7" y="47" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-8" target="4cd9yuj2vxOyTZg44lFt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-8" value="THE DC MULYIVERSE OF THE BLEEDING EDGE CONTEXT:&lt;div&gt;&lt;span id=&quot;docs-internal-guid-d2f1cde9-7fff-e537-1039-b5eb2fca11b1&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:12pt;margin-bottom:12pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Nunito, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;The story opens with the Bleeding Edge, the crumbling barrier of the Multiverse. The Traveler awakens here, summoned by the Monitor. The Multiverse is destabilizing, timelines colliding, and the Source Wall’s collapse has unleashed Anti-Life corruption. From the very beginning, the player is presented with a binary choice: follow the Speed Force into Flashpoint’s broken timeline, or step through a Boom Tube into Apokolips’ cosmic war.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Nunito, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="257" width="550" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-13" target="4cd9yuj2vxOyTZg44lFt-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-10" value="Path A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-9">
+          <mxGeometry x="-0.075" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="4cd9yuj2vxOyTZg44lFt-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="327" y="557" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-12" value="Path B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-11">
+          <mxGeometry x="-0.1667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-13" value="Main&amp;nbsp;&lt;div&gt;Choice&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="517" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-15" value="Enter the&amp;nbsp;&lt;span style=&quot;&quot; data-end=&quot;644&quot; data-start=&quot;629&quot;&gt;Speed Force&lt;/span&gt;&amp;nbsp;that leads to the&amp;nbsp;&amp;nbsp;&lt;span style=&quot;&quot; data-end=&quot;677&quot; data-start=&quot;656&quot;&gt;Timeline Repair Arc&lt;/span&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="527" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-17" value="Open a &lt;span style=&quot;&quot; data-end=&quot;712&quot; data-start=&quot;699&quot;&gt;Boom Tube&lt;/span&gt;&amp;nbsp;that leads to &lt;span style=&quot;&quot; data-end=&quot;740&quot; data-start=&quot;724&quot;&gt;Cosmic War Arc&lt;/span&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="527" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547" y="677" as="sourcePoint" />
+            <mxPoint x="547" y="707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4cd9yuj2vxOyTZg44lFt-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547" y="767" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-21" target="4cd9yuj2vxOyTZg44lFt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-21" value="Meet &lt;span style=&quot;&quot; data-end=&quot;868&quot; data-start=&quot;845&quot;&gt;Thomas Wayne Batman&lt;/span&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="797" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-27" target="4cd9yuj2vxOyTZg44lFt-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-23" value="Path A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-22">
+          <mxGeometry x="-0.1429" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-27" target="4cd9yuj2vxOyTZg44lFt-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-25" value="Path B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-24">
+          <mxGeometry x="-0.36" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547" y="987" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-27" value="Choice" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507" y="877" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-28" value="Steal Reverse-Flash’s Tachyon Device (selfish/powerful)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="887" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-29" value="Convince Thomas Wayne to join your mission (ally path)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="887" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-30" value="The Bleeding Edge" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="167" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4cd9yuj2vxOyTZg44lFt-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547" y="1047" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-33" target="4cd9yuj2vxOyTZg44lFt-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-33" value="Infiltrate &lt;span style=&quot;&quot; data-end=&quot;1102&quot; data-start=&quot;1087&quot;&gt;Cadmus Labs&lt;/span&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="1077" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657" y="1207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-35" value="Path A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-34">
+          <mxGeometry x="-0.2908" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-38" target="4cd9yuj2vxOyTZg44lFt-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-37" value="Path B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-36">
+          <mxGeometry x="-0.2" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-38" value="Choices" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507" y="1167" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-39" value="Free Superboy (strengthens allies)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="1177" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-40" value="Shut down the lab (saves future, but lose ally)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="1177" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="687" as="sourcePoint" />
+            <mxPoint x="197" y="717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4cd9yuj2vxOyTZg44lFt-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="777" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-44" target="4cd9yuj2vxOyTZg44lFt-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-44" value="Face &lt;span style=&quot;&quot; data-end=&quot;1341&quot; data-start=&quot;1321&quot;&gt;Darkseid’s Elite&lt;/span&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="817" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="287" y="997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="288" y="947" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-46" value="Path A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-45">
+          <mxGeometry x="-0.4456" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-48" target="4cd9yuj2vxOyTZg44lFt-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-48" value="Choices" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="907" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-49" value="Hack Motherbox to escape (stealth)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7" y="997" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.592;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-48" target="4cd9yuj2vxOyTZg44lFt-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-51" value="Path B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-50">
+          <mxGeometry x="-0.4545" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-52" value="Fight Kalibak (direct confrontation)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="997" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-53" value="Scene 2A , Flashpoint Earth" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="707" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-54" value="Speed Force / Timeline Repair Arc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="617" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-55" value="Scene 3A – Earth-16 (Young Justice League)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="987" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-56" value="Boom Tube / Cosmic War Arc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="627" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-57" value="Scene 2B,&amp;nbsp;Apokolips" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="717" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-59" target="4cd9yuj2vxOyTZg44lFt-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-59" value="Scene 3B – New Genesis" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="1077" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-61" target="4cd9yuj2vxOyTZg44lFt-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-61" value="Meet &lt;strong data-end=&quot;1511&quot; data-start=&quot;1502&quot;&gt;Orion&lt;/strong&gt;." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="1167" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="1347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-63" value="Path A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-62">
+          <mxGeometry x="-0.6018" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="97" y="1357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-65" value="Path B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="4cd9yuj2vxOyTZg44lFt-64">
+          <mxGeometry x="-0.4812" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="1397" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="197" y="1387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-67" value="&lt;strong data-end=&quot;1528&quot; data-start=&quot;1517&quot;&gt;Choices&lt;/strong&gt;:" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="1257" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-68" value="Attack Darkseid (violent escalation)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237" y="1347" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-69" value="&amp;nbsp;Redirect Boom Tube to Earth-Prime (tactical retreat)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37" y="1347" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-70" value="Convergence – Earth-Prime (Scene 4)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="142" y="1427" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4cd9yuj2vxOyTZg44lFt-73" target="4cd9yuj2vxOyTZg44lFt-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-73" value="Convergence – Earth-Prime (Scene 4)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cd9yuj2vxOyTZg44lFt-74" value="&amp;nbsp;&lt;span style=&quot;&quot; data-end=&quot;1732&quot; data-start=&quot;1716&quot;&gt;Doppelganger&lt;/span&gt;, corrupted by the Anti-Life Equation." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="144" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGPaGXJJn-gCsWjAQYgv-3" target="AGPaGXJJn-gCsWjAQYgv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-6" value="Option A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="AGPaGXJJn-gCsWjAQYgv-5">
+          <mxGeometry x="-0.3494" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGPaGXJJn-gCsWjAQYgv-3" target="AGPaGXJJn-gCsWjAQYgv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-10" value="Option B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="AGPaGXJJn-gCsWjAQYgv-9">
+          <mxGeometry x="-0.3931" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-3" value="Choice" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="238" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPaGXJJn-gCsWjAQYgv-4" target="AGPaGXJJn-gCsWjAQYgv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-4" value="&lt;span id=&quot;docs-internal-guid-3a86eaf2-7fff-669d-3ff3-a8c4bd0694b7&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Fight them (combat-focused)&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGPaGXJJn-gCsWjAQYgv-8" target="AGPaGXJJn-gCsWjAQYgv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-8" value="&lt;span id=&quot;docs-internal-guid-3b6bcb25-7fff-2746-3e4a-784675fbc6d9&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Try to reason with them (diplomacy-focused)&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="901" y="344" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGPaGXJJn-gCsWjAQYgv-15" target="60aIGesRuUDaNwPViyWk-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1225" y="552" />
+              <mxPoint x="1110" y="552" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-15" value="&lt;span id=&quot;docs-internal-guid-b6f8812e-7fff-a7ac-e56a-116fa79476f9&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Collapse Ending (Bad)&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="AGPaGXJJn-gCsWjAQYgv-18" target="60aIGesRuUDaNwPViyWk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-18" value="&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255)); font-size: 14px;&quot; face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;b style=&quot;&quot;&gt;Earth Prime&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1672" y="191" width="143" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;FORESHADOWING THE END BASED ON CERTAIN DECSIONS MADE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1423" y="60" width="241" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AGPaGXJJn-gCsWjAQYgv-22" target="60aIGesRuUDaNwPViyWk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGPaGXJJn-gCsWjAQYgv-22" value="&lt;span id=&quot;docs-internal-guid-984d5178-7fff-b7a9-123c-ea3eefb492db&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hero Ending (Good)&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="901" y="456" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-1" target="60aIGesRuUDaNwPViyWk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-31" value="Option A" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="60aIGesRuUDaNwPViyWk-30">
+          <mxGeometry x="-0.2473" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1587" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-33" value="Option B" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="60aIGesRuUDaNwPViyWk-32">
+          <mxGeometry x="-0.0558" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-1" value="Fight" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1703" y="302" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-8" target="60aIGesRuUDaNwPViyWk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-8" value="Collapse Ending (Bad)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="1876" y="312" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-9" target="60aIGesRuUDaNwPViyWk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-9" value="Choice A (Fight)&amp;nbsp; you fail in battle." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1876" y="394" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-11" target="60aIGesRuUDaNwPViyWk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-11" value="Narrative:&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;You fight bravely, but the Doppelganger overwhelms you with Anti-Life energy.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The Justice League arrive too late; the Multiverse collapses into nothingness.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1834" y="479" width="205" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-13" target="60aIGesRuUDaNwPViyWk-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-13" value="Theme:&amp;nbsp; The cost of failure. Power unchecked leads to entropy." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1866" y="626" width="141" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-16" value="&lt;b&gt;Earth Prime&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="588" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-34" target="60aIGesRuUDaNwPViyWk-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-34" value="Corrupted Ending (Bad)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="1466" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-35" target="60aIGesRuUDaNwPViyWk-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-35" value="Either fight or reason tempted by Anti-Life power." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1466" y="397" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-37" target="60aIGesRuUDaNwPViyWk-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-37" value="Narrative:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The Doppelganger offers you power. You take it, merging with them.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;You kill your enemies and rule as a dark god.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The Multiverse survives, but under your tyrannical rule.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1407" y="484" width="238" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-39" target="60aIGesRuUDaNwPViyWk-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-39" value="&lt;strong data-end=&quot;1135&quot; data-start=&quot;1125&quot;&gt;Theme:&lt;/strong&gt; Corruption of ideals, fall from grace." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1466" y="634" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-43" target="60aIGesRuUDaNwPViyWk-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-43" value="Hero Ending: Restore Timeline (Good)&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="796" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-45" target="60aIGesRuUDaNwPViyWk-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-45" value="From choice A (Fight) → win with help from allies (Thomas Wayne, Superboy, Orion, JL)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1834" y="898" width="172" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-47" target="60aIGesRuUDaNwPViyWk-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-47" value="&lt;p data-end=&quot;1417&quot; data-start=&quot;1401&quot;&gt;&lt;strong data-end=&quot;1415&quot; data-start=&quot;1401&quot;&gt;Narrative:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;You defeat the Doppelganger, shattering the Anti-Life influence.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Justice League, New Gods, and allies unite to repair timelines.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;You survive but remain scarred by what could have been.&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="1023" width="242" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-49" target="60aIGesRuUDaNwPViyWk-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-49" value="&lt;strong data-end=&quot;1633&quot; data-start=&quot;1623&quot;&gt;Theme:&lt;/strong&gt; The triumph of unity and sacrifice." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1861" y="1173" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-52" target="60aIGesRuUDaNwPViyWk-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-52" target="60aIGesRuUDaNwPViyWk-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-52" value="Bitter Sweet Ending" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1506" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-53" target="60aIGesRuUDaNwPViyWk-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-53" value="Choice B (Reason)&amp;nbsp; Doppelganger is convinced but it costs you." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1506" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-55" target="60aIGesRuUDaNwPViyWk-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-55" value="&lt;p data-end=&quot;1895&quot; data-start=&quot;1879&quot;&gt;&lt;strong data-end=&quot;1893&quot; data-start=&quot;1879&quot;&gt;Narrative:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;You reach your Doppelganger’s humanity and stop the Anti-Life threat.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;To stabilise the timeline, you must erase your existence.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The Multiverse lives, but you vanish, remembered only as a legend.&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1457" y="1013" width="217" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-57" target="60aIGesRuUDaNwPViyWk-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-57" value="&lt;strong data-end=&quot;2125&quot; data-start=&quot;2115&quot;&gt;Theme:&lt;/strong&gt; Sacrifice, legacy, memory." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1506" y="1168" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-59" value="True Ending (Best)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1674" y="1308" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" edge="1" parent="1" target="60aIGesRuUDaNwPViyWk-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2428" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-64" value="&lt;b&gt;TRUE ENDING (BEST)&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2369" y="84" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;THE END OF ALL THE SCENES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2112" y="53" width="240" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-68" target="60aIGesRuUDaNwPViyWk-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-68" value="Choice B (Reason) + specific conditions (e.g., saved allies from earlier arcs)." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2362" y="171" width="132" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-70" target="60aIGesRuUDaNwPViyWk-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-70" value="&lt;li data-end=&quot;2634&quot; data-start=&quot;2372&quot;&gt;&lt;p data-end=&quot;2390&quot; data-start=&quot;2374&quot;&gt;&lt;strong data-end=&quot;2388&quot; data-start=&quot;2374&quot;&gt;Narrative:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;You merge your essence with your Doppelganger, reconciling fractured timelines.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;All timelines fuse into a single, stable Multiverse.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;You transcend mortal existence, ascending as the &lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;2604&quot; data-start=&quot;2589&quot;&gt;New Monitor&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, guardian of the Omniverse.&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2316" y="277" width="224" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60aIGesRuUDaNwPViyWk-72" target="60aIGesRuUDaNwPViyWk-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-72" value="&lt;strong data-end=&quot;2647&quot; data-start=&quot;2637&quot;&gt;Theme:&lt;/strong&gt; Rebirth, transcendence, balance." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2368" y="424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60aIGesRuUDaNwPViyWk-74" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;THE END&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2368" y="513" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
