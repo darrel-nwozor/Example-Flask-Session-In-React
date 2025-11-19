@@ -1,9 +1,9 @@
 In order to run this program, you will need to do the following:
 
-pip install flask
-pip install flask-cors
-npm install --save react-spinners
-npm install react-cookie
+pip install flask<br>
+pip install flask-cors<br>
+npm install --save react-spinners<br>
+npm install react-cookie<br>
 
 Add "<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>" to your public index.html
 
